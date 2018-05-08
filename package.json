@@ -1,0 +1,25 @@
+{
+  "name": "HW12_BAMAZON",
+  "version": "1.0.0",
+  "description": "BAMAZON application using MYSQL database",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcheung66/HW12_BAMAZON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcheung66/HW12_BAMAZON/issues"
+  },
+  "homepage": "https://github.com/bcheung66/HW12_BAMAZON#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
